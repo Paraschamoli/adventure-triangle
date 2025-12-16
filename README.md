@@ -6,15 +6,10 @@
 
 ## 🚀 Live Demo
 
-https://paras_chamoli.github.io/adventure-triangle
+https://paraschamoli.github.io/adventure-triangle/
 
 ---
 
-## 📸 Preview
-
-![Adventure Triangle Preview](https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format\&fit=crop\&w=1200\&q=80)
-
----
 
 ## ✨ Features
 
